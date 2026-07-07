@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Dispatch System",
+  "description": "An automated full-stack agentic dispatch and appointment scheduling platform powered by Gemini AI and Twilio, featuring a central lead dashboard and an interactive webhook simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
